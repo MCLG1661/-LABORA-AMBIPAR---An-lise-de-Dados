@@ -25,7 +25,7 @@ with st.sidebar:
         logo = Image.open('Labora_Logo_Novo_1_Laranja@2x.png')
         st.image(logo, use_container_width=True)
     except:
-        st.image("https://via.placeholder.com/300x100?text=LABORA/AMBIPAR", use_container_width=True)
+        st.image("https://via.placeholder.com/300x100?text=LABORA/AMBIPAR", use_container_width=True) 
     
     st.markdown("---")
     st.caption("📊 Dashboard de Análise de Dados")
