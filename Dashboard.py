@@ -39,7 +39,7 @@ st.markdown("---")
 @st.cache_data
 def carregar_dados():
     df = pd.read_excel(
-        'PLANILHA DE RECOLHA DE NOTAS JULHO.xlsx',
+        'PLANILHA DE RECOLHA DE NOTAS JULHO.xlsx', 
         engine='openpyxl'
     )
     # Renomeia as colunas
