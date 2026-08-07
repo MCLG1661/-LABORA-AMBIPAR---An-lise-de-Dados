@@ -29,7 +29,7 @@ with st.sidebar:
     
     st.markdown("---")
     st.caption("📊 Dashboard de Análise de Dados")
-    st.caption(f"📅 Última atualização: 03 de Agosto 2026")
+    st.caption(f"📅 Última atualização: 07 de Agosto 2026")
     
     # ---------- NOVO BOTÃO PARA ATUALIZAR DADOS ----------
     if st.button("🔄 Forçar Atualização dos Dados"):
@@ -37,7 +37,7 @@ with st.sidebar:
         st.rerun()
 
 # ==================== TÍTULO PRINCIPAL ====================
-st.title("📊 LABORA/AMBIPAR - ANÁLISE DE DADOS - JULHO")
+st.title("📊 LABORA/AMBIPAR - ANÁLISE DE DADOS - CONSOLIDADA")
 st.markdown("---")
 
 # ==================== CARREGAR DADOS ====================
