@@ -37,7 +37,7 @@ with st.sidebar:
         st.rerun()
 
 # ==================== TÍTULO PRINCIPAL ====================
-st.title("📊 LABORA/AMBIPAR - CONSOLIDADO - MARÇO-JULHO")
+st.title("📊 LABORA/AMBIPAR - CONSOLIDADO - MARÇO/JULHO")
 st.markdown("---")
 
 # ==================== CARREGAR DADOS ====================
