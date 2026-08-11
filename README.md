@@ -5,7 +5,10 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5.0%2B-3F4F75?logo=plotly&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1%2B-217346?logo=microsoft-excel&logoColor=white)
 
-### Dashboard Interativo para Análise de Recolha de Notas Fiscais por Posto e CNPJ.
+### A aplicação foi construída para transformar dados operacionais em uma experiência interativa de análise e visualização, facilitando o acompanhamento de indicadores e a interpretação das informações por meio de dashboards. O projeto demonstra a utilização de Python e Streamlit na construção de aplicações de Data Analytics capazes de aproximar análise de dados e tomada de decisão.
+
+### Objetivo
+Desenvolver uma aplicação interativa para exploração e visualização de dados operacionais, transformando informações estruturadas em indicadores de fácil interpretação e acompanhamento.
 
 ## 📋 Estrutura do projeto :
 
