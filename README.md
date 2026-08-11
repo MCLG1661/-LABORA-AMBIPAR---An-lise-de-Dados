@@ -6,7 +6,7 @@ OPERAÇÃO RECOLHA DE NOTAS LABORA / AMBIPAR : 📝📊 ANÁLISE DE DADOS
 ![Plotly](https://img.shields.io/badge/Plotly-5.0%2B-3F4F75?logo=plotly&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1%2B-217346?logo=microsoft-excel&logoColor=white)
 
-### A aplicação foi construída para transformar dados operacionais em uma experiência interativa de análise e visualização, facilitando o acompanhamento de indicadores e a interpretação das informações por meio de dashboards. O projeto demonstra a utilização de Python e Streamlit na construção de aplicações de Data Analytics capazes de aproximar análise de dados e tomada de decisão.
+A aplicação foi construída para transformar dados operacionais em uma experiência interativa de análise e visualização, facilitando o acompanhamento de indicadores e a interpretação das informações por meio de dashboards. O projeto demonstra a utilização de Python e Streamlit na construção de aplicações de Data Analytics capazes de aproximar análise de dados e tomada de decisão.
 
 ## Objetivo
 
