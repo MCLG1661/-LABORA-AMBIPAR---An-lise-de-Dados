@@ -1,4 +1,5 @@
-## OPERAÇÃO RECOLHA DE NOTAS LABORA / AMBIPAR : 📝📊 ANÁLISE DE DADOS
+##  <img width="384" height="89" alt="Labora_Logo_Novo_1_Laranja@2x" src="https://github.com/user-attachments/assets/1c222bef-3d11-4812-b1a7-25b830186555" />
+OPERAÇÃO RECOLHA DE NOTAS LABORA / AMBIPAR : 📝📊 ANÁLISE DE DADOS
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?logo=pandas&logoColor=white)
