@@ -16,6 +16,48 @@ Desenvolver uma aplicação de análise de dados capaz de transformar informaç�
 O dashboard permite acompanhar métricas relacionadas à operação, comparar resultados entre postos e CNPJs e identificar os principais responsáveis pelo volume e valor das notas fiscais processadas.
 O projeto demonstra a aplicação prática de ***Python, análise de dados e visualização de informações*** na construção de ferramentas orientadas à tomada de decisão.
 
+## 📊 Indicadores monitorados
+
+O dashboard consolida os principais KPIs da operação:
+
+- Total de postos
+- Total de CNPJs
+- Quantidade de notas fiscais
+- Valor total recolhido
+- Distribuição dos resultados por posto
+- Distribuição dos resultados por CNPJ
+
+## 🎯 Funcionalidades :
+
+**Visão Geral**
+- Apresentação das principais métricas da operação em uma visão consolidada.
+
+**Rankings Por Valor**
+- Top 10 Postos por Valor Recolhido
+- Top 10 CNPJs por Valor Recolhido
+-   
+**Rankings Por Volume**
+- Top 10 Postos por Quantidade de Notas
+- Top 10 CNPJs por Quantidade de Notas
+- 
+**Análises Detalhadas**
+- Análise completa por Posto
+- Análise completa por CNPJ
+- Formatação automática dos CNPJs
+- Exploração dos dados diretamente pela interface
+- 
+**Possibilidade de exportação dos resultados em formato CSV**
+- Dados consolidados por Posto
+- Dados consolidados por CNPJ
+
+## 🛠️Tecnologias & Finalidade :
+
+- Python : Desenvolvimento e processamento dos dados
+- Streamlit : Construção da aplicação e interface interativa
+- Pandas : Manipulação, tratamento e análise dos dados
+- Plotly: Desenvolvimento das visualizações interativas
+- OpenPyXL : Leitura e integração com arquivos Excel  
+
 ## 📋 Estrutura do projeto :
 
 ```
@@ -44,66 +86,69 @@ Entre os principais campos utilizados estão:
 
 ## 🔄 Fluxo da Aplicação
 
+
+No GitHub, o resultado visual será:
+
+```text
 Base Excel
     ↓
-
 Leitura dos dados
     ↓
-
 Pandas / Tratamento
     ↓
-
 Agregações e cálculo dos KPIs
     ↓
-
 Visualizações com Plotly
     ↓
-
 Dashboard Streamlit
     ↓
+Análise e exportação dos resultados
 
-Análise e exportação dos resultados 
+```
 
-## 🎯 Funcionalidades :
+## 📸 Dashboard
 
-**Visão Geral**
-- Apresentação das principais métricas da operação em uma visão consolidada.
+A interface apresenta os principais indicadores da operação, rankings e análises detalhadas.
 
-**Rankings Por Valor**
+**KPIs**
+
+- Total de Postos
+- Total de CNPJs
+- Total de Notas Fiscais
+- Valor Total Recolhido
+ 
+**Visualizações**
+
 - Top 10 Postos por Valor Recolhido
 - Top 10 CNPJs por Valor Recolhido
--   
-**Rankings Por Volume**
 - Top 10 Postos por Quantidade de Notas
 - Top 10 CNPJs por Quantidade de Notas
-- 
-**Análises Detalhadas**
-- Análise completa por Posto
-- Análise completa por CNPJ
-- Formatação automática dos CNPJs
-- Exploração dos dados diretamente pela interface
-- 
-**Possibilidade de exportação dos resultados em formato CSV**
-- Dados consolidados por Posto
-- Dados consolidados por CNPJ
 
-## 📁 Estrutura da Planilha
+**Análises**
 
-O dashboard espelha uma planilha Excel com as seguintes colunas :
+- Visão detalhada por Posto
+- Visão detalhada por CNPJ
+- Exportação dos resultados para CSV
 
-- POSTO (nome do posto)
-- CNPJ AMBIPAR
-- NOTAS POR POSTO
-- VALOR TOTAL RECOLHIDO
+## 💡 Competências demonstradas
 
-## 🛠️Tecnologias & Finalidade :
+Este projeto explora conceitos e práticas relacionados a:
 
-- Python : Desenvolvimento e processamento dos dados
-- Streamlit : Construção da aplicação e interface interativa
-- Pandas : Manipulação, tratamento e análise dos dados
-- Plotly: Desenvolvimento das visualizações interativas
-- OpenPyXL : Leitura e integração com arquivos Excel
+- Data Analytics
+- Python aplicado à análise de dados
+- Manipulação e tratamento de dados
+- Construção e acompanhamento de KPIs
+- Data Visualization
+- Desenvolvimento de dashboards
+- Streamlit
+- Análise de dados operacionais
+- Transformação de dados em informações gerenciais
+- Data-Driven Decision Making
 
+## 📚 Contexto Acadêmico
+
+Projeto desenvolvido como desafio do curso de Streamlit, integrante da trilha Avançado em Data Science com Python — Alura.
+A proposta foi aplicar conceitos de análise e visualização de dados na construção de uma aplicação interativa utilizando um contexto operacional como estudo de caso.
 
 ## 👤 Autor
 
