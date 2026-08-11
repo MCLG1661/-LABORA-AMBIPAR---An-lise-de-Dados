@@ -81,7 +81,7 @@ Entre os principais campos utilizados estão:
 
 - **Posto** : Identificação do posto
 - **CNPJ Ambipar** : Identificação do CNPJ relacionado à operação
-- **Notas por poosto** : Quantidade de notas processadas
+- **Notas por posto** : Quantidade de notas processadas
 - **Valor total recolhido** : Valor financeiro consolidado
 
 ## 🔄 Fluxo da Aplicação
