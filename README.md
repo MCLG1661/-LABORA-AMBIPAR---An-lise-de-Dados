@@ -8,7 +8,7 @@ OPERAÇÃO RECOLHA DE NOTAS LABORA / AMBIPAR : 📝📊 ANÁLISE DE DADOS
 
 ### A aplicação foi construída para transformar dados operacionais em uma experiência interativa de análise e visualização, facilitando o acompanhamento de indicadores e a interpretação das informações por meio de dashboards. O projeto demonstra a utilização de Python e Streamlit na construção de aplicações de Data Analytics capazes de aproximar análise de dados e tomada de decisão.
 
-### Objetivo
+## Objetivo
 Desenvolver uma aplicação interativa para exploração e visualização de dados operacionais, transformando informações estruturadas em indicadores de fácil interpretação e acompanhamento.
 
 ## 📋 Estrutura do projeto :
