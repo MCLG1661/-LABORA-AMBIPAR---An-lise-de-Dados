@@ -10,7 +10,11 @@
 Aplicação interativa de **Data Analytics** desenvolvida com Python e Streamlit para análise, visualização e acompanhamento de indicadores da Operação Labora/Ambipar.
 O projeto foi desenvolvido como desafio do curso de **Streamlit**, integrante da trilha **Avançado em Data Science com Python — Alura**, utilizando dados operacionais como base para a construção de um dashboard voltado à exploração de informações e acompanhamento de KPIs. A aplicação transforma dados estruturados em indicadores e visualizações interativas, facilitando a identificação de padrões, análise de desempenho e interpretação dos resultados operacionais.
 
-Desenvolver uma aplicação interativa para exploração e visualização de dados operacionais, transformando informações estruturadas em indicadores de fácil interpretação e acompanhamento.
+## 🎯 Objetivo
+
+Desenvolver uma aplicação de análise de dados capaz de transformar informações operacionais em uma visão gerencial simples e interativa.
+O dashboard permite acompanhar métricas relacionadas à operação, comparar resultados entre postos e CNPJs e identificar os principais responsáveis pelo volume e valor das notas fiscais processadas.
+O projeto demonstra a aplicação prática de **Python, análise de dados e visualização de informações** na construção de ferramentas orientadas à tomada de decisão.
 
 ## 📋 Estrutura do projeto :
 
