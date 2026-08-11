@@ -30,7 +30,8 @@ Operacao-Labora-Ambipar/
 ### 🎯 Funcionalidades :
 
 **Visão Geral**: Apresentação das principais métricas da operação em uma visão consolidada.
-**Rankings Por Valor**:
+
+**Rankings Por Valor**
 - Top 10 Postos por Valor Recolhido
 - Top 10 CNPJs por Valor Recolhido  
 **Rankings Por Volume**
