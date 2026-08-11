@@ -37,11 +37,12 @@ A aplicação utiliza uma base Excel contendo informações operacionais necess�
 
 Entre os principais campos utilizados estão:
 
-Campo	                Descrição
-POSTO	                Identificação do posto
-CNPJ AMBIPAR	        Identificação do CNPJ relacionado à operação
-NOTAS POR POSTO	      Quantidade de notas processadas
-VALOR TOTAL RECOLHIDO	Valor financeiro consolidado
+Campo	                  Descrição
+
+POSTO	                  Identificação do posto
+CNPJ AMBIPAR	          Identificação do CNPJ relacionado à operação
+NOTAS POR POSTO	        Quantidade de notas processadas
+VALOR TOTAL RECOLHIDO	  Valor financeiro consolidado
 
 ## 🎯 Funcionalidades :
 
