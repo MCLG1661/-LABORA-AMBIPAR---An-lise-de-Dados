@@ -44,20 +44,24 @@ Entre os principais campos utilizados estão:
 
 ## 🔄 Fluxo da Aplicação
 
-text
-
 Base Excel
     ↓
+
 Leitura dos dados
     ↓
+
 Pandas / Tratamento
     ↓
+
 Agregações e cálculo dos KPIs
     ↓
+
 Visualizações com Plotly
     ↓
+
 Dashboard Streamlit
     ↓
+
 Análise e exportação dos resultados 
 
 ## 🎯 Funcionalidades :
