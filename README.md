@@ -33,15 +33,18 @@ Operacao-Labora-Ambipar/
 
 **Rankings Por Valor**
 - Top 10 Postos por Valor Recolhido
-- Top 10 CNPJs por Valor Recolhido  
+- Top 10 CNPJs por Valor Recolhido
+-   
 **Rankings Por Volume**
 - Top 10 Postos por Quantidade de Notas
 - Top 10 CNPJs por Quantidade de Notas
+- 
 **Análises Detalhadas**
 - Análise completa por Posto
 - Análise completa por CNPJ
 - Formatação automática dos CNPJs
 - Exploração dos dados diretamente pela interface
+- 
 **Possibilidade de exportação dos resultados em formato CSV**
 - Dados consolidados por Posto
 - Dados consolidados por CNPJ
