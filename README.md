@@ -7,9 +7,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5.0%2B-3F4F75?logo=plotly&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1%2B-217346?logo=microsoft-excel&logoColor=white)
 
-A aplicação foi construída para transformar dados operacionais em uma experiência interativa de análise e visualização, facilitando o acompanhamento de indicadores e a interpretação das informações por meio de dashboards. O projeto demonstra a utilização de Python e Streamlit na construção de aplicações de Data Analytics capazes de aproximar análise de dados e tomada de decisão.
-
-## Objetivo
+Aplicação interativa de **Data Analytics** desenvolvida com Python e Streamlit para análise, visualização e acompanhamento de indicadores da Operação Labora/Ambipar.
+O projeto foi desenvolvido como desafio do curso de **Streamlit**, integrante da trilha **Avançado em Data Science com Python — Alura**, utilizando dados operacionais como base para a construção de um dashboard voltado à exploração de informações e acompanhamento de KPIs. A aplicação transforma dados estruturados em indicadores e visualizações interativas, facilitando a identificação de padrões, análise de desempenho e interpretação dos resultados operacionais.
 
 Desenvolver uma aplicação interativa para exploração e visualização de dados operacionais, transformando informações estruturadas em indicadores de fácil interpretação e acompanhamento.
 
