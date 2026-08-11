@@ -66,10 +66,13 @@ O dashboard consolida os principais KPIs da operação:
 
 ```
 Operacao-Labora-Ambipar/
-│ 
-├── Dashboard.py 
-├── requirements.txt 
-├── PLANILHA.xlsx 
+│
+├── assets/
+│   └── dashboard-preview.png
+│
+├── Dashboard.py
+├── requirements.txt
+├── PLANILHA.xlsx
 └── README.md
 ```
 - Dashboard.py : Aplicação principal responsável pelo processamento dos dados, cálculos, visualizações e interface Streamlit.
@@ -112,7 +115,8 @@ Análise e exportação dos resultados
 
 ## 📸 Dashboard
 
-A interface apresenta os principais indicadores da operação, rankings e análises detalhadas.
+A interface foi desenvolvida com Streamlit para facilitar o acompanhamento dos principais indicadores da operação.
+[![Dashboard Operação Labora/Ambipar](assets/dashboard-preview.png)](https://operacao-labora-ambipar-7ue494brbdawvj7pd3qqic.streamlit.app/)
 
 **KPIs**
 
