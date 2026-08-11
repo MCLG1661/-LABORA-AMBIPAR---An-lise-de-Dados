@@ -116,7 +116,7 @@ Análise e exportação dos resultados
 ## 📸 Dashboard
 
 A interface foi desenvolvida com Streamlit para facilitar o acompanhamento dos principais indicadores da operação.
-[![Dashboard Operação Labora/Ambipar](assets/dashboard-preview.png)](https://operacao-labora-ambipar-7ue494brbdawvj7pd3qqic.streamlit.app/)
+[![Dashboard Operação Labora/Ambipar](assets/dashboard-preview)](https://operacao-labora-ambipar-7ue494brbdawvj7pd3qqic.streamlit.app/)
 
 **KPIs**
 
