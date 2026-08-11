@@ -42,6 +42,21 @@ Entre os principais campos utilizados estão:
 - NOTAS POR POSTO : Quantidade de notas processadas
 - VALOR TOTAL RECOLHIDO : Valor financeiro consolidado
 
+## 🔄 Fluxo da Aplicação
+Base Excel
+    ↓
+Leitura dos dados
+    ↓
+Pandas / Tratamento
+    ↓
+Agregações e cálculo dos KPIs
+    ↓
+Visualizações com Plotly
+    ↓
+Dashboard Streamlit
+    ↓
+Análise e exportação dos resultados 
+
 ## 🎯 Funcionalidades :
 
 **Visão Geral**
