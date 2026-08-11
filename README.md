@@ -14,7 +14,7 @@ O projeto foi desenvolvido como desafio do curso de **Streamlit**, integrante da
 
 Desenvolver uma aplicação de análise de dados capaz de transformar informações operacionais em uma visão gerencial simples e interativa.
 O dashboard permite acompanhar métricas relacionadas à operação, comparar resultados entre postos e CNPJs e identificar os principais responsáveis pelo volume e valor das notas fiscais processadas.
-O projeto demonstra a aplicação prática de **Python, análise de dados e visualização de informações** na construção de ferramentas orientadas à tomada de decisão.
+O projeto demonstra a aplicação prática de *Python, análise de dados e visualização de informações* na construção de ferramentas orientadas à tomada de decisão.
 
 ## 📋 Estrutura do projeto :
 
