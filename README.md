@@ -31,7 +31,19 @@ Operacao-Labora-Ambipar/
 - PLANILHA.xlsx : Base utilizada pelo dashboard para processamento dos indicadores.
 - README.md : Documentação técnica e funcional do projeto.
 
-### 🎯 Funcionalidades :
+## 📁 Estrutura dos Dados
+
+A aplicação utiliza uma base Excel contendo informações operacionais necessárias para geração dos indicadores.
+
+Entre os principais campos utilizados estão:
+
+Campo	                Descrição
+POSTO	                Identificação do posto
+CNPJ AMBIPAR	        Identificação do CNPJ relacionado à operação
+NOTAS POR POSTO	      Quantidade de notas processadas
+VALOR TOTAL RECOLHIDO	Valor financeiro consolidado
+
+## 🎯 Funcionalidades :
 
 **Visão Geral**
 - Apresentação das principais métricas da operação em uma visão consolidada.
@@ -56,7 +68,7 @@ Operacao-Labora-Ambipar/
 
 ## 📁 Estrutura da Planilha
 
-O dashboard espera uma planilha Excel com as seguintes colunas :
+O dashboard espelha uma planilha Excel com as seguintes colunas :
 
 - POSTO (nome do posto)
 - CNPJ AMBIPAR
