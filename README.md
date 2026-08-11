@@ -19,13 +19,12 @@ O projeto demonstra a aplicação prática de ***Python, análise de dados e vis
 ## 📋 Estrutura do projeto :
 
 ```
-operacao-labora-ambipar/
-
-├── Dashboard.py          # Seu código principal
-├── requirements.txt      # Lista de bibliotecas
-├── PLANILHA.xlsx         # Sua planilha (opcional, se estiver no repositório)
-└── README.md             # Documentação (opcional)
-
+Operacao-Labora-Ambipar/
+│ 
+├── Dashboard.py 
+├── requirements.txt 
+├── PLANILHA.xlsx 
+└── README.md
 ```
 
 ### 🎯 Funcionalidades :
