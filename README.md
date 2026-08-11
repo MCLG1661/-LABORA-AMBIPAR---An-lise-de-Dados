@@ -29,14 +29,21 @@ Operacao-Labora-Ambipar/
 
 ### 🎯 Funcionalidades :
 
-- **Visão Geral**: Métricas principais (Total de Postos, CNPJs, Notas e Valor Recolhido)
-- **Top 10 Postos por Valor Recolhido** (gráfico de barras)
-- **Top 10 CNPJs por Valor Recolhido** (gráfico de barras)
-- **Top 10 Postos por Quantidade de Notas** (gráfico de barras)
-- **Top 10 CNPJs por Quantidade de Notas** (gráfico de barras)
-- **Análise Completa por Posto** (tabela detalhada)
-- **Análise Completa por CNPJ** (tabela detalhada com CNPJ formatado)
-- **Exportação de Dados** (download em CSV por Posto e por CNPJ)
+**Visão Geral**: Apresentação das principais métricas da operação em uma visão consolidada.
+**Rankings Por Valor**:
+- Top 10 Postos por Valor Recolhido
+- Top 10 CNPJs por Valor Recolhido  
+**Rankings Por Volume**
+- Top 10 Postos por Quantidade de Notas
+- Top 10 CNPJs por Quantidade de Notas
+**Análises Detalhadas**
+- Análise completa por Posto
+- Análise completa por CNPJ
+- Formatação automática dos CNPJs
+- Exploração dos dados diretamente pela interface
+**Possibilidade de exportação dos resultados em formato CSV**
+- Dados consolidados por Posto
+- Dados consolidados por CNPJ
 
 ## 📁 Estrutura da Planilha
 O dashboard espera uma planilha Excel com as seguintes colunas :
