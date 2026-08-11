@@ -5,7 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0%2B-3F4F75?logo=plotly&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1%2B-217346?logo=microsoft-excel&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-3.1%2B-217346?logo=microsoft-excel&logoColor=white) 
 
 Aplicação interativa de ***Data Analytics*** desenvolvida com Python e Streamlit para análise, visualização e acompanhamento de indicadores da Operação Labora/Ambipar.
 O projeto foi desenvolvido como desafio do curso de ***Streamlit***, integrante da trilha ***Avançado em Data Science com Python — Alura***, utilizando dados operacionais como base para a construção de um dashboard voltado à exploração de informações e acompanhamento de KPIs. A aplicação transforma dados estruturados em indicadores e visualizações interativas, facilitando a identificação de padrões, análise de desempenho e interpretação dos resultados operacionais.
