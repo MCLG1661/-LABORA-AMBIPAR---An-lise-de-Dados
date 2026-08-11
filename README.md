@@ -43,6 +43,8 @@ Entre os principais campos utilizados estão:
 - VALOR TOTAL RECOLHIDO : Valor financeiro consolidado
 
 ## 🔄 Fluxo da Aplicação
+
+```
 Base Excel
     ↓
 Leitura dos dados
@@ -56,6 +58,8 @@ Visualizações com Plotly
 Dashboard Streamlit
     ↓
 Análise e exportação dos resultados 
+
+```
 
 ## 🎯 Funcionalidades :
 
