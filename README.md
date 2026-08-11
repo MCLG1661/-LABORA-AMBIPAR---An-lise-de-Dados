@@ -115,9 +115,9 @@ Análise e exportação dos resultados
 
 ## 📸 Dashboard
 
-A interface foi desenvolvida com Streamlit para facilitar o acompanhamento dos principais indicadores da operação.
-
 [![Dashboard Operação Labora/Ambipar](assets/dashboard-preview.png.png)](https://operacao-labora-ambipar-7ue494brbdawvj7pd3qqic.streamlit.app/)
+
+A interface foi desenvolvida com Streamlit para facilitar o acompanhamento dos principais indicadores da operação.
 
 - Total de Postos
 - Total de CNPJs
