@@ -153,8 +153,7 @@ A proposta foi aplicar conceitos de análise e visualização de dados na constr
 ## 👤 Autor
 
 Marcus
-💼 Marketing & Data Science
-📍 Rio de Janeiro
+Marketing | Data Science | Inteligência Artificial | Gestão de Projetos
 
 🔗 GitHub: [https://github.com/MCLG1661]
 
