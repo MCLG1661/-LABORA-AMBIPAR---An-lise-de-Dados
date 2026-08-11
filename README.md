@@ -26,10 +26,15 @@ Operacao-Labora-Ambipar/
 ├── PLANILHA.xlsx 
 └── README.md
 ```
+- Dashboard.py : Aplicação principal responsável pelo processamento dos dados, cálculos, visualizações e interface Streamlit.
+- requirements.txt : Dependências necessárias para execução da aplicação.
+- PLANILHA.xlsx : Base utilizada pelo dashboard para processamento dos indicadores.
+- README.md : Documentação técnica e funcional do projeto.
 
 ### 🎯 Funcionalidades :
 
-**Visão Geral**: Apresentação das principais métricas da operação em uma visão consolidada.
+**Visão Geral**
+- Apresentação das principais métricas da operação em uma visão consolidada.
 
 **Rankings Por Valor**
 - Top 10 Postos por Valor Recolhido
@@ -50,50 +55,22 @@ Operacao-Labora-Ambipar/
 - Dados consolidados por CNPJ
 
 ## 📁 Estrutura da Planilha
+
 O dashboard espera uma planilha Excel com as seguintes colunas :
 
-Colunas :
+- POSTO (nome do posto)
+- CNPJ AMBIPAR
+- NOTAS POR POSTO
+- VALOR TOTAL RECOLHIDO
 
-- A	POSTO (nome do posto)
-- D CNPJ AMBIPAR
-- G	NOTAS POR POSTO
-- J VALOR TOTAL RECOLHIDO
+## 🛠️Tecnologias & Finalidade :
 
-## 📦 Tecnologias Utilizadas
+- Python : Desenvolvimento e processamento dos dados
+- Streamlit : Construção da aplicação e interface interativa
+- Pandas : Manipulação, tratamento e análise dos dados
+- Plotly: Desenvolvimento das visualizações interativas
+- OpenPyXL : Leitura e integração com arquivos Excel
 
-  
-Tecnologia & Finalidade :
-
-- Streamlit : Interface do dashboard
-- Pandas : Manipulação e análise de dados
-- Plotly: Gráficos interativos
-- OpenPyXL : Leitura de arquivos Excel
-
-## 📸 Preview do Dashboard
-
-Métricas Principais :
-
-- Total de Postos
-- Total de CNPJs
-- Total de Notas Fiscais
-- Valor Total Recolhido
-
-Gráficos :
-
-- Top 10 Postos por Valor Recolhido
-- Top 10 CNPJs por Valor Recolhido
-- Top 10 Postos por Quantidade de Notas
-- Top 10 CNPJs por Quantidade de Notas
-
-Tabelas :
-
-- Análise completa por Posto
-- Análise completa por CNPJ (com CNPJ formatado)
-
-Exportação :
-
-- CSV com dados por Posto
-- CSV com dados por CNPJ
 
 ## 👤 Autor
 
