@@ -1,4 +1,5 @@
-##  <img width="384" height="89" alt="Labora_Logo_Novo_1_Laranja@2x" src="https://github.com/user-attachments/assets/1c222bef-3d11-4812-b1a7-25b830186555" />
+##  <img width="384" height="89" alt="Labora_Logo_Novo_1_Laranja@2x" src="https://github.com/user-attachments/assets/1c222bef-3d11-4812-b1a7-25b830186555" /> <img width="384" height="89" alt="1200x630wa" src="https://github.com/user-attachments/assets/87b68fae-e230-4ee2-98cc-6c4a03345fc8" />
+
 
 ## 📊 OPERAÇÃO LABORA/AMBIPAR — DATA ANALYTICS COM STREAMLIT
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
