@@ -29,7 +29,7 @@ with st.sidebar:
     
     st.markdown("---")
     st.caption("📊 Dashboard de Análise de Dados")
-    st.caption(f"📅 Última atualização: 07 de Agosto 2026")
+    st.caption(f"📅 Última atualização: 15 de Agosto 2026")
     
     # ---------- NOVO BOTÃO PARA ATUALIZAR DADOS ----------
     if st.button("🔄 Forçar Atualização dos Dados"):
@@ -37,14 +37,14 @@ with st.sidebar:
         st.rerun()
 
 # ==================== TÍTULO PRINCIPAL ====================
-st.title("📊 LABORA/AMBIPAR - CONSOLIDADO - MARÇO/JULHO")
+st.title("📊 LABORA/AMBIPAR - AGOSTO - 15 DIAS")
 st.markdown("---")
 
 # ==================== CARREGAR DADOS ====================
 @st.cache_data(ttl=3600)  # <-- CACHE COM VALIDADE DE 1 HORA
 def carregar_dados():
     df = pd.read_excel(
-        'PLANILHA DE RECOLHA DE NOTAS CONSOLIDADA.xlsx', 
+        'PLANILHA DE RECOLHA DE NOTAS AGOSTO - 15 DIAS.xlsx', 
         engine='openpyxl'
     )
     # Renomeia as colunas
