@@ -44,7 +44,7 @@ st.markdown("---")
 @st.cache_data(ttl=3600)  # <-- CACHE COM VALIDADE DE 1 HORA
 def carregar_dados():
     df = pd.read_excel(
-        'PLANILHA DE RECOLHA CONSOLIDADA.xlsx', 
+        'PLANILHA DE RECOLHA DE NOTAS CONSOLIDADA.xlsx', 
         engine='openpyxl'
     )
     # Renomeia as colunas
