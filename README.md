@@ -86,7 +86,7 @@ A aplicação permite exportar resultados consolidados em formato CSV para anál
 
 ## 📸 Dashboard
 
-[![Dashboard Operação Labora/Ambipar](assets/dashboard-preview.png)](https://operacao-labora-ambipar-7ue494brbdawvj7pd3qqic.streamlit.app/)
+[![Dashboard Operação Labora/Ambipar](assets/dashboard-preview.png)](https://operacao-labora-ambipar-7ue494brbdawvj7pd3qqic.streamlit.app/) 
 
 > Clique na imagem para acessar a aplicação.
 
