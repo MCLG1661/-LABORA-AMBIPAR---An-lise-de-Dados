@@ -1,5 +1,3 @@
-##  <img width="200" height="150" alt="Labora_Logo_Novo_1_Laranja@2x" src="https://github.com/user-attachments/assets/1c222bef-3d11-4812-b1a7-25b830186555" /> <img width="200" height="150" alt="1200x630wa" src="https://github.com/user-attachments/assets/87b68fae-e230-4ee2-98cc-6c4a03345fc8" />
-
 # 📊 Operação Labora/Ambipar | Operations Analytics Dashboard
 
 > Dashboard de Data Analytics desenvolvido com Python e Streamlit para transformar dados operacionais em KPIs, visualizações e informações gerenciais para apoio à tomada de decisão.
